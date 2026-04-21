@@ -1,4 +1,4 @@
-## Источник
+## Идея
 
 https://sysout.ru/vvedenie-v-spring-batch-job-jobinstance-executioncontext-joblauncher-i-restart/
 
