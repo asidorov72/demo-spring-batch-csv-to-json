@@ -1,0 +1,42 @@
+[
+ {
+  "id" : 1,
+  "name" : "DOG",
+  "age" : 2
+},
+ {
+  "id" : 2,
+  "name" : "CAT",
+  "age" : 3
+},
+ {
+  "id" : 3,
+  "name" : "FOX",
+  "age" : 4
+},
+ {
+  "id" : 4,
+  "name" : "ELEPHANT",
+  "age" : 10
+},
+ {
+  "id" : 5,
+  "name" : "EAGLE",
+  "age" : 5
+},
+ {
+  "id" : 6,
+  "name" : "SQUIRREL",
+  "age" : 2
+},
+ {
+  "id" : 7,
+  "name" : "TIGER",
+  "age" : 8
+},
+ {
+  "id" : 8,
+  "name" : "SHARK",
+  "age" : 6
+}
+]
